@@ -11,8 +11,9 @@
    "date": "2026-11-17",
    "lesson": 2,
    "topic": "What is the S&P 500?",
-   "status": "scheduled",
-   "file": "shorts/explainers/2026-11-17_what-is-the-sp-500.mp4"
+   "status": "published",
+   "file": "shorts/explainers/2026-11-17_what-is-the-sp-500.mp4",
+   "url": "https://www.youtube.com/shorts/u_4o45Kzvo4"
   }
  ]
 }
