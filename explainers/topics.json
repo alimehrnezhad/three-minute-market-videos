@@ -1,1 +1,18 @@
-{"done": [{"date": "2026-11-12", "topic": "What is CPI?", "status": "published", "url": "https://www.youtube.com/shorts/2q0ZFzQm390"}]}
+{
+ "done": [
+  {
+   "date": "2026-11-12",
+   "topic": "What is CPI?",
+   "status": "published",
+   "url": "https://www.youtube.com/shorts/2q0ZFzQm390",
+   "lesson": 1
+  },
+  {
+   "date": "2026-11-17",
+   "lesson": 2,
+   "topic": "What is the S&P 500?",
+   "status": "scheduled",
+   "file": "shorts/explainers/2026-11-17_what-is-the-sp-500.mp4"
+  }
+ ]
+}
